@@ -1,0 +1,1 @@
+{"Tracers":true,"Aim Part":"Head","ESP":true,"Team Check":true,"Silent Aim":true,"Aim Key":"MouseButton1","Aimbot":false,"Wallbang":false,"Smoothness":"5"}
